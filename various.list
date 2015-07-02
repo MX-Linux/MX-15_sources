@@ -1,0 +1,18 @@
+# opera
+# deb http://deb.opera.com/opera/ stable non-free 
+
+# virtualbox
+# deb http://download.virtualbox.org/virtualbox/debian/ wheezy contrib 
+
+# MATE
+# deb http://repo.mate-desktop.org/debian/ wheezy main 
+
+# GAMES - gottet and simsu
+#deb http://download.opensuse.org/repositories/home:gottcode/Debian_7.0/ /
+
+# Latest iceweasel (australis)
+# deb http://mozilla.debian.net/ wheezy-backports iceweasel-release
+
+# yad
+#deb http://debs.slavino.sk testing main non-free
+
