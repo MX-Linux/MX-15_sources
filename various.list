@@ -11,7 +11,7 @@
 #deb http://download.opensuse.org/repositories/home:gottcode/Debian_7.0/ /
 
 # Latest iceweasel (australis)
-# deb http://mozilla.debian.net/ wheezy-backports iceweasel-release
+# deb http://mozilla.debian.net/ jessie-backports iceweasel-release
 
 # yad
 #deb http://debs.slavino.sk testing main non-free
