@@ -2,17 +2,13 @@
 # deb http://deb.opera.com/opera/ stable non-free 
 
 # virtualbox
-# deb http://download.virtualbox.org/virtualbox/debian/ wheezy contrib 
-
-# MATE
-# deb http://repo.mate-desktop.org/debian/ wheezy main 
+# deb http://download.virtualbox.org/virtualbox/debian/ jessie contrib 
 
 # GAMES - gottet and simsu
-#deb http://download.opensuse.org/repositories/home:gottcode/Debian_7.0/ /
+#deb http://download.opensuse.org/repositories/home:gottcode/Debian_8.0/ /
 
 # Latest iceweasel (australis)
 # deb http://mozilla.debian.net/ jessie-backports iceweasel-release
 
-# yad
-#deb http://debs.slavino.sk testing main non-free
+
 
