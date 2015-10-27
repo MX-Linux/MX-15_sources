@@ -2,8 +2,3 @@
 deb http://main.mepis-deb.org/mx/repo/ mx15 main non-free
 deb http://main.mepis-deb.org/mx/testrepo/ mx15 test
 
-# Mepis Community Main and Test Repos
-#deb http://main.mepis-deb.org/mepiscr/xfce/ xfce-4.10 main 
-#deb http://main.mepis-deb.org/mepiscr/repo/ mepis12cr main non-free 
-#deb http://main.mepis-deb.org/mepiscr/mx-test/ mx-14 test
-#deb http://main.mepis-deb.org/mepiscr/testrepo/ mepis12cr test
