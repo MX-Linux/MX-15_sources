@@ -1,4 +1,3 @@
 # Use with Debian Stable/Jessie repositories.
 deb http://antix.daveserver.info/jessie jessie main 
-# Use with Debian Testing (or Sid) repositories. 
-#deb http://antix.daveserver.info/testing testing main 
+
