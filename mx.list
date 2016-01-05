@@ -1,4 +1,4 @@
 # Mepis Community Main and Test Repos
 deb http://main.mepis-deb.org/mx/repo/ mx15 main non-free
-# deb http://main.mepis-deb.org/mx/testrepo/ mx15 test
+#deb http://main.mepis-deb.org/mx/testrepo/ mx15 test
 
